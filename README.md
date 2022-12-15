@@ -26,13 +26,13 @@
     <img align="center" alt="Wini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Wini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
 </div>
