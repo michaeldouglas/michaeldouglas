@@ -27,6 +27,9 @@
     <img align="center" alt="Wini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
    <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  
+  <img align="center" alt="Wini-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  
 
   
 </div>
