@@ -2,7 +2,7 @@
 
 **michaeldouglas/michaeldouglas**
 
-- 🔭 I’m currently working on [WebMeeting](http://webmeeting1.com.br)
+- 🔭 I’m currently working on [Itaú](https://www.itau.com.br)
 - 🌱 I’m currently learning Artificial Intelligence
   & Machine Learning
 - 👯 I’m looking to collaborate on JavaScript, PHP, Java & Python
