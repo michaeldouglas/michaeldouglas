@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Itaú](https://www.itau.com.br)
 - 🌱 I’m currently learning Artificial Intelligence
   & Machine Learning
-- 👯 I’m looking to collaborate on JavaScript, PHP, Java & Python
+- 👯 I’m looking to collaborate on JavaScript, Node.js, Go & Python
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about PHP, JavaScript, Python and others
 - 📫 How to reach me: michaeldouglas010790@gmail.com
