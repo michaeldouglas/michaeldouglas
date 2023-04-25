@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Artificial Intelligence
   & Machine Learning
 - 👯 I’m looking to collaborate on JavaScript, Node.js, Go & Python
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about PHP, JavaScript, Python and others
+- 🤔 I’m looking for help with Go
+- 💬 Ask me about Go, JavaScript, Python and others
 - 📫 How to reach me: michaeldouglas010790@gmail.com
 
 <center>
